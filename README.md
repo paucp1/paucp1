@@ -1,4 +1,4 @@
-<h1 align="center">Hello there👋, I'm Pau <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hello there👋, I'm Pau <img height="40" src="https://cdn3.emoji.gg/emojis/8969-parrotvibe.gif"></h1>
 
 # 💫 About Me:
 🔭 I’m currently working on Imaging, a collaborative project between the Probitas Foundation and the UPC. (https://imaging.upc.edu/en)
