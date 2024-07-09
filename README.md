@@ -14,6 +14,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paucp1&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 <br>
+## 📥 Connect with me:
+<a href="https://www.linkedin.com/in/david-p%C3%A9rez-barroso-192824239/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:carbo.pau@gmail.com?subject=Hola"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<br>
+<br>
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
